@@ -16,7 +16,7 @@ export default function RootLayout({
     <html
       lang="en"
       className={cn(
-        "bg-white text-slate-900 dark:text-gray-100 antialiased",
+        "bg-slate-50 text-slate-900 dark:text-gray-100 antialiased",
         inter.className
       )}
     >
