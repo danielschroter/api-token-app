@@ -2,7 +2,7 @@
 
 import { FC } from "react";
 import { useState } from "react";
-import Button from "./ui/Button";
+import { Button } from "./ui/Button";
 import { signOut } from "next-auth/react";
 
 interface SignOutButtonProps {}

@@ -6,7 +6,7 @@ import { Loader2 } from "lucide-react";
 import { useState } from "react";
 
 import { FC } from "react";
-import Button from "./ui/Button";
+import { Button } from "./ui/Button";
 
 import { useRouter } from "next/navigation";
 
